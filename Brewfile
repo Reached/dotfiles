@@ -37,6 +37,8 @@ cask 'phpstorm'
 cask 'sequel-pro-nightly'
 cask 'skype'
 cask 'slack'
+cask 'steam'
+cask 'neo4j'
 cask 'android-sdk'
 
 # Quicklook
