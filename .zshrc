@@ -5,7 +5,8 @@ export DOTFILES=$HOME/.dotfiles
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/driesvints/.oh-my-zsh"
+export ZSH="/Users/caspersorensen/.oh-my-zsh"
+export ANDROID_HOME=/usr/local/share/android-sdk
 
 # Theme
 export MNML_INSERT_CHAR="$"
